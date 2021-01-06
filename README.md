@@ -1,4 +1,5 @@
 # tic-tac-toe
+```This game was made as a study exercise in vue JS```
 
 ## Project setup
 ```
